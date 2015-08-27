@@ -1,0 +1,17 @@
+{
+  "name": "Mean.Stack",
+  "version": "0.0.0",
+  "authors": [
+    "Murali0009 <muralidharan84@gmail.com>"
+  ],
+  "description": "\"Mean Tutorial\"",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.4",
+    "angular-resource": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "bootstrap": "~3.3.5"
+  }
+}
